@@ -30,15 +30,15 @@ Repository contains data science projects developed in Python. I completed the p
     
    - **[Exploring Ebay Car Sales Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** - Cleaning and analyzing data of used car listings. A dataset is from German eBay Kleinanzeigen. 
    
-    _Skills: Data Cleaning, Python, Pandas, Numpy_
+      _Skills: Data Cleaning, Python, Pandas, Numpy_
    
    - **[Finding the Best Markets to Advertise In an E-learning Product](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)** - Analyzing freeCodeCamp's 2017 New Coder Survey (FreeCodeCamp is a platform that offers courses on web development, their survey attracted new programmers with not only web development interest) to find the best markets to advertise in an e-learning product, such as programming courses. 
 
-    _Skills: Python, Pandas, Matplotlib_
+      _Skills: Python, Pandas, Matplotlib_
     
    - **[Investigating Fandango Movie Ratings](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)** - Analyzing movie ratings data to find out whether there has been any change in Fandango's rating system after Hickey's analysis, which showed that the rating is biased and dishonest.
    
-    _Skills: Python, Pandas, Numpy, Matplotlib_
+      _Skills: Python, Pandas, Numpy, Matplotlib_
     
 - ### Machine Learning
 
