@@ -28,6 +28,18 @@ Repository contains data science projects developed in Python. I completed the p
   
     _Skills: SQL, Python, Pandas, Sqlite3, Numpy, Matplotlib_
     
+   - **[Exploring Ebay Car Sales Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** - Cleaning and analyzing data of used car listings. A dataset is from German eBay Kleinanzeigen. 
+   
+   _Skills: Data Cleaning, Python, Pandas, Numpy_
+   
+   - **[Finding the Best Markets to Advertise In an E-learning Product](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)** - Analyzing freeCodeCamp's 2017 New Coder Survey (FreeCodeCamp is a platform that offers courses on web development, their survey attracted new programmers with not only web development interest) to find the best markets to advertise in an e-learning product, such as programming courses. 
+
+    _Skills: Python, Pandas, Matplotlib_
+    
+   - **[Investigating Fandango Movie Ratings](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)** - Analyzing movie ratings data to find out whether there has been any change in Fandango's rating system after Hickey's analysis, which showed that the rating is biased and dishonest.
+   
+   -Skills: Python, Pandas, Numpy, Matplotlib_
+    
 - ### Machine Learning
 
   - **[Predicting Car Prices by using the k-nearest neighbors algorithm](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20Car%20Prices.ipynb)** - Predicting a car's market price by using its attributes and applying the k-nearest neighbors algorithm.
@@ -41,3 +53,7 @@ Repository contains data science projects developed in Python. I completed the p
   - **[Predicting Bike Rentals](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20Bike%20Rentals.ipynb)** - Predicting the total number of communal bikes people rented in a given hour by using Machine Learning models, such as: Linear Regression, Decision Tree and Random Forest.
   
     _Skills: Machine Learning, Linear Regression, Decision Tree, Random Forest, Python, Pandas, Numpy, Sklearn, Matplotlib_
+
+  - **[Predicting if a borrower will pay off their loan on time or not](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20if%20a%20borrower%20will%20pay%20off%20their%20loan%20on%20time%20or%20not.ipynb)** - predict if a borrower will pay off their loan on time or not by using Machine Learning models, such as: Logistic Regression and Random Forest.
+  
+    _Skills: Machine Learning, Data Cleaning, Logistic Regression, Random Forest, Python, Pandas, Numpy_
