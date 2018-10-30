@@ -48,11 +48,11 @@ Repository contains data science projects developed in Python. I completed the p
   
   - **[Predicting House Sale Prices](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20House%20Sale%20Prices.ipynb)** - Predicting house sale prices by using a linear regression model.
   
-    _Skills: Machine Learning, Linear Regression, Feature Engineering, Python, Sklearn, Pandas, Numpy, Matplotlib_
+    _Skills: Machine Learning, Linear Regression, Feature Engineering, Python, Scikit-learn, Pandas, Numpy, Matplotlib_
   
   - **[Predicting Bike Rentals](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20Bike%20Rentals.ipynb)** - Predicting the total number of communal bikes people rented in a given hour by using Machine Learning models, such as: Linear Regression, Decision Tree and Random Forest.
   
-    _Skills: Machine Learning, Linear Regression, Decision Tree, Random Forest, Python, Pandas, Numpy, Sklearn, Matplotlib_
+    _Skills: Machine Learning, Linear Regression, Decision Tree, Random Forest, Python, Pandas, Numpy, Scikit-learn, Matplotlib_
 
   - **[Predicting if a borrower will pay off their loan on time or not](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20if%20a%20borrower%20will%20pay%20off%20their%20loan%20on%20time%20or%20not.ipynb)** - Predicting if a borrower will pay off their loan on time or not by using Machine Learning models, such as: Logistic Regression and Random Forest.
   
