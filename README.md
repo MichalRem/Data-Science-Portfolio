@@ -8,11 +8,11 @@ Repository contains data science projects developed in Python. I completed the p
   
     _Skills: Python_
 
-  - **[Visualizing Earnings Based On College Majors](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)** - Analyzing (mainly by using visualizations) data of job outcomes of graduates from college between 2010 and 2012. 
+  - **[Visualising Earnings Based On College Majors](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)** - Analysing (mainly by using visualisations) data of job outcomes of graduates from college between 2010 and 2012. 
   
     _Skills: Python, Pandas, Matplotlib_
   
-  - **[Visualizing The Gender Gap In College Degrees](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)** - Visualizing the gender gap across college degrees. 
+  - **[Visualising The Gender Gap In College Degrees](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)** - Visualising the gender gap across college degrees. 
   
     _Skills: Python, Pandas, Matplotlib_
   
@@ -20,7 +20,7 @@ Repository contains data science projects developed in Python. I completed the p
   
     _Skills: Data Cleaning, Python, Pandas, Numpy, Matplotlib_
   
-  - **[Analyzing CIA Factbook Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data.ipynb)** - Analyzing demograpic data of all countries from the CIA World Factbook.
+  - **[Analysing CIA Factbook Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data.ipynb)** - Analysing demograpic data of all countries from the CIA World Factbook.
   
     _Skills: SQL, Python, Pandas, Sqlite3, Matplotlib_
   
@@ -28,15 +28,15 @@ Repository contains data science projects developed in Python. I completed the p
   
     _Skills: SQL, Python, Pandas, Sqlite3, Numpy, Matplotlib_
     
-   - **[Exploring Ebay Car Sales Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** - Cleaning and analyzing data of used car listings. A dataset is from German eBay Kleinanzeigen. 
+   - **[Exploring Ebay Car Sales Data](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** - Cleaning and analysing data of used car listings. A dataset is from the German eBay Kleinanzeigen. 
    
       _Skills: Data Cleaning, Python, Pandas, Numpy_
    
-   - **[Finding the Best Markets to Advertise In an E-learning Product](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)** - Analyzing freeCodeCamp's 2017 New Coder Survey (FreeCodeCamp is a platform that offers courses on web development, their survey attracted new programmers with not only web development interest) to find the best markets to advertise in an e-learning product, such as programming courses. 
+   - **[Finding the Best Markets to Advertise In an E-learning Product](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)** - Analysing freeCodeCamp's 2017 New Coder Survey in order to find the best markets to advertise in an e-learning product, such as programming courses. FreeCodeCamp is a platform that offers courses on web development, their survey attracted new programmers with not only web development interest.
 
       _Skills: Python, Pandas, Matplotlib_
     
-   - **[Investigating Fandango Movie Ratings](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)** - Analyzing movie ratings data to find out whether there has been any change in Fandango's rating system after Hickey's analysis, which showed that the rating is biased and dishonest.
+   - **[Investigating Fandango Movie Ratings](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Investigating%20Fandango%20Movie%20Ratings.ipynb)** - Analysing data of movie ratings to find out whether there has been any change in Fandango's rating system after Hickey's analysis, which showed that the rating is biased and dishonest.
    
       _Skills: Python, Pandas, Numpy, Matplotlib_
     
@@ -50,10 +50,10 @@ Repository contains data science projects developed in Python. I completed the p
   
     _Skills: Machine Learning, Linear Regression, Feature Engineering, Python, Scikit-learn, Pandas, Numpy, Matplotlib_
   
-  - **[Predicting Bike Rentals](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20Bike%20Rentals.ipynb)** - Predicting the total number of communal bikes people rented in a given hour by using Machine Learning models, such as: Linear Regression, Decision Tree and Random Forest.
+  - **[Predicting Bike Rentals](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20Bike%20Rentals.ipynb)** - Predicting the total number of communal bikes rented in a given hour by using Machine Learning models, such as: Linear Regression, Decision Tree and Random Forest.
   
     _Skills: Machine Learning, Linear Regression, Decision Tree, Random Forest, Python, Pandas, Numpy, Scikit-learn, Matplotlib_
 
-  - **[Predicting if a borrower will pay off their loan on time or not](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20if%20a%20borrower%20will%20pay%20off%20their%20loan%20on%20time%20or%20not.ipynb)** - Predicting if a borrower will pay off their loan on time or not by using Machine Learning models, such as: Logistic Regression and Random Forest.
+  - **[Predicting if a borrower will pay off their loan on time or not](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Predicting%20if%20a%20borrower%20will%20pay%20off%20their%20loan%20on%20time%20or%20not.ipynb)** - Predicting whether a borrower will pay off their loan on time or not by using Machine Learning models, such as: Logistic Regression and Random Forest.
   
     _Skills: Machine Learning, Data Cleaning, Logistic Regression, Random Forest, Python, Pandas, Numpy_
