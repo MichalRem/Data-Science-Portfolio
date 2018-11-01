@@ -1,6 +1,7 @@
 # Data-Science-Portfolio
 Repository contains data science projects developed in Python. I completed the projects to improve my data related skills and gain more experience. 
 - If you would like to chat with me about the portfolio, work opportunities, or collaboration please contact me via e-mail: michal.rembelski@gmail.com.
+- Please, notice that sometimes github fails to render the ipynb notebooks, in that case copy and paste link to the project you would like to see in https://nbviewer.jupyter.org/ website
 
 ## Table of Contents
 - ### Data Analyzis and Visualization
