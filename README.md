@@ -6,12 +6,15 @@ Repository contains data science projects developed in Python. I completed the p
 ## Table of Contents
 - ### Data Analyzis and Visualization
 
-  - **[Creating dashboard and recommendation for properties managing company](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Watershed_White_Paper.docx)** - The project’s goal is to create recommendations whether Watershed – properties managing company, should pursue moving into the short-term rental market or not, and if so, which properties should they convert and what would be the expected implications for cash flow and profits in the conversion year and the year following conversion. The project contains three parts: dashboard in Tableau, white paper and final presentation for stakeholders.
-To look at the White Paper please go to the link above and download the file **[LINK](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Watershed_White_Paper.docx)**
-The Tableau dashboard you can find under this **[LINK](https://public.tableau.com/profile/michal3816#!/vizhome/IncreasingRealEstateManagementProfitsHarnessingDataAnalytics/Dashboard1?publish=yes)**
-The recorded final presentation for the stakeholders you can find under this **[LINK](https://www.screencast.com/t/tzSuytoO)**
+  - **[Creating dashboard and recommendation for properties managing company](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Watershed_White_Paper.docx)** - The project’s goal is to create recommendations, whether Watershed – properties managing company, should pursue moving into the short-term rental market or not, and if so, which properties should they convert and what would be the expected implications for cash flow and profits in the conversion year and the year following conversion. The project contains three parts: dashboard in Tableau, white paper and final presentation for stakeholders.
+
+      - To look at the White Paper please go to the link above and download the file **[LINK](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Watershed_White_Paper.docx)**
+
+      - The Tableau dashboard you can find under this **[LINK](https://public.tableau.com/profile/michal3816#!/vizhome/IncreasingRealEstateManagementProfitsHarnessingDataAnalytics/Dashboard1?publish=yes)**
+
+      - The recorded final presentation for the stakeholders you can find under this **[LINK](https://www.screencast.com/t/tzSuytoO)**
   
-  _Skills: Tableau, Presentation, Data Visualisation_
+    _Skills: Tableau, Presentation, Data Visualization_
 
   - **[Explore U.S. Births](https://github.com/MichalRem/Data-Science-Portfolio/blob/master/Explore%20U.S.%20Births.ipynb)** - Exploring and looking for patterns in U.S. births from 1994 to 2003.
   
